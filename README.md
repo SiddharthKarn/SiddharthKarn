@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there , I am Siddharth 👋
+- 🔭 I’m currently working on learning DSA and exploring the open source.
+- 🔭 I’m a freshman in Engineering and exploring everything.😂
+- 🌱 I’m currently learning basics of programming from CS50(Harvard University)!
+- 🚩 2023 Goals: Start contributing to Open source Projects after learning Basics of Programming and Development!😅
 
 <!--
 **SiddharthKarn/SiddharthKarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
